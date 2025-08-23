@@ -330,9 +330,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Passionate about creating AI tools for musicians and teaching programming through practical projects. Follow my journey on YouTube where I share tutorials on AI, Python, and software development.
 
-- 🎥 YouTube: [Sergie Code Channel]
-- 💼 LinkedIn: [Sergie Code]
-- 🐙 GitHub: [sergiecodeapp]
+- 📸 Instagram: https://www.instagram.com/sergiecode
+
+- 🧑🏼‍💻 LinkedIn: https://www.linkedin.com/in/sergiecode/
+
+- 📽️Youtube: https://www.youtube.com/@SergieCode
+
+- 😺 Github: https://github.com/sergiecode
+
+- 👤 Facebook: https://www.facebook.com/sergiecodeok
+
+- 🎞️ Tiktok: https://www.tiktok.com/@sergiecode
+
+- 🕊️Twitter: https://twitter.com/sergiecode
+
+- 🧵Threads: https://www.threads.net/@sergiecode
+
+
 
 ---
 
