@@ -320,10 +320,6 @@ mypy app/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 About the Author
 
 **Sergie Code** - Software Engineer & YouTube Educator
@@ -350,4 +346,5 @@ Passionate about creating AI tools for musicians and teaching programming throug
 
 
 *Built with ❤️ for the music and developer community*
+
 
